@@ -23,7 +23,7 @@ Para cada trabajo pendiente, **la fecha y hora de su próxima visita**.
 
 ### Restricciones
 
-- **Horario:** de lunes a viernes, de 16:00 a 20:00. Es el horario que se planifica y el único que cuenta para la métrica. A veces una visita se alarga más allá de las 20:00, y los fines de semana no se planifican porque son muy irregulares; en ambos casos la visita se registra igual.
+- **Horario:** de lunes a viernes, de 17:00 a 20:30. Es el horario que se planifica y el único que cuenta para la métrica. A veces una visita se alarga más allá de las 20:30, y los fines de semana no se planifican porque son muy irregulares; en ambos casos la visita se registra igual.
 - **Duración de una visita:** habitualmente no más de 3 horas. Un trabajo más largo se reparte en varias visitas en días distintos.
 - **Material:** un trabajo que necesita material no puede visitarse antes de la fecha en que el material está disponible.
 - **Cliente:** la visita tiene que caer dentro de la disponibilidad que ha indicado el cliente.
@@ -33,7 +33,7 @@ Al planificar con fecha y hora ya no es necesario limitarse a aceptar solo traba
 
 ## Métrica
 
-Se divide el horario (L-V, 16:00 a 20:00) en bloques de media hora. Un bloque es **tiempo muerto aprovechable** si se cumplen las dos condiciones:
+Se divide el horario (L-V, 17:00 a 20:30) en bloques de media hora. Un bloque es **tiempo muerto aprovechable** si se cumplen las dos condiciones:
 
 1. No se estaba haciendo ninguna visita.
 2. Había al menos un trabajo **que se podía hacer**: ya solicitado, sin terminar, con el material ya disponible si lo necesita y con el cliente disponible en ese bloque.
