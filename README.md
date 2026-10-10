@@ -72,6 +72,15 @@ Un trabajo que se bloquea tiene varias visitas: la primera con *Falta material* 
 
 ![Fotografía de la tarjeta de rol](FotoTarjetaCliente.jpeg)
 
+## Planificación
+
+La planificación del proyecto está en los siguientes documentos:
+
+- [User journeys](docs/planificacion/user-journeys.md)
+- [Personas](docs/planificacion/personas.md)
+- [Historias de usuario](docs/planificacion/historias-usuario.md)
+- [Milestones](docs/planificacion/milestones.md)
+
 ## Configuración del repositorio: [Ver documentación de configuración](docs/configuracion/configuracion.md)
 
 ## Instrucciones para los revisores
