@@ -21,6 +21,8 @@ Los dos primeros son internos, para el propio desarrollo. Los siguientes, que se
 
 **Historia de usuario asignada:** [HU001](historias-usuario.md#hu001-cuando-un-trabajo-se-me-bloquea-no-sé-qué-otro-trabajo-pendiente-puedo-hacer-en-ese-hueco).
 
+Se prioriza la HU001 porque es el problema que mide la métrica del proyecto (horas muertas aprovechables) y porque, para representarla, hacen falta todos los conceptos del problema: trabajos pendientes, bloqueos por material, disponibilidad del cliente, duración restante y huecos. Las otras dos historias se apoyan en esos mismos conceptos.
+
 ## Milestone 1: primera lógica de negocio comprobada automáticamente
 
 **Para qué:** que sobre lo entregado en el milestone 0 exista la lógica mínima que empiece a resolver los problemas de las historias de usuario.
