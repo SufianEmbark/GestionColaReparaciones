@@ -70,8 +70,6 @@ https://docs.google.com/spreadsheets/d/1TZXDSEyXSjovz1fJbzHfa1Fm0bqNKjzyctNGtZC7
 
 Un trabajo que se bloquea tiene varias visitas: la primera con *Falta material* o *Falta tiempo* y la última con *Terminado*. A partir de estas dos hojas se deduce todo lo demás: cuándo empezó y terminó cada trabajo, si se aplazó, si necesitó material, en qué momentos había trabajos disponibles y, por tanto, la métrica.
 
-![Fotografía de la tarjeta de rol](FotoTarjetaCliente.jpeg)
-
 ## Planificación
 
 La planificación del proyecto está en los siguientes documentos:
