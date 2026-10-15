@@ -8,19 +8,13 @@ Haquin apunta los trabajos desde el móvil cuando le llaman, a lo largo de la ma
 
 Como Haquin, cuando una visita se queda a medias porque me falta material o no me da tiempo, o cuando empiezo la tarde, no sé cuál de mis trabajos pendientes puedo hacer en ese momento: que el cliente pueda estar en casa a esa hora y que yo tenga lo que necesito. Por eso pierdo horas de la tarde sin trabajar teniendo trabajos que podría estar haciendo.
 
-**Journey relacionado:** [Journey 1](user-journeys.md#journey-1-una-tarde-de-trabajo-de-haquin), pasos 3 y 6.
-
 ## [HU002] Cuando un trabajo se queda a medias, no sé cuándo volver sin solapar ni retrasar los demás
 
 Como Haquin, cuando tengo que volver otro día a un trabajo porque espero una pieza o porque no me dio tiempo a terminarlo, no sé en qué hueco encajar la vuelta sin pisar otro trabajo ni retrasar todos los demás. Por eso acabo dejándolo para el final o reorganizándolo todo de cabeza.
 
-**Journey relacionado:** [Journey 1](user-journeys.md#journey-1-una-tarde-de-trabajo-de-haquin), pasos 5 y 7.
-
 ## [HU003] Cuando me llama un cliente, no sé qué día y a qué hora podré ir
 
 Como Haquin, cuando acepto un trabajo nuevo no sé cuándo podré atenderlo con los que ya tengo, así que no puedo darle al cliente una cita concreta. Por eso solo acepto trabajos que pueda empezar en una semana más o menos, y rechazo los demás.
-
-**Journey relacionado:** [Journey 1](user-journeys.md#journey-1-una-tarde-de-trabajo-de-haquin), pasos 1 y 2.
 
 ## Conceptos
 
