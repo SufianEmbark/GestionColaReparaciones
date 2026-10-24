@@ -8,7 +8,7 @@ Código que representa los conceptos del problema y sus relaciones, sin lógica 
 
 **Validez:** sigue una metodología de diseño dirigido por el dominio a partir de las historias de usuario.
 
-**Historia de usuario asignada:** [HU001](historias-usuario.md#hu001-cuando-un-trabajo-se-me-bloquea-no-sé-qué-otro-trabajo-pendiente-puedo-hacer-en-ese-hueco), porque es el problema que mide la métrica y para representarla hacen falta todos los conceptos del problema.
+**Historia de usuario asignada:** [HU001](historias-usuario.md#hu001-cuando-acepto-un-trabajo-no-sé-qué-día-y-a-qué-hora-darle-cita-al-cliente), porque es la base de las demás: las otras dos historias parten de que cada trabajo ya tiene su día y su hora.
 
 ## Milestone 1: primera lógica de negocio comprobada automáticamente
 
