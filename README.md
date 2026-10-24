@@ -12,7 +12,8 @@ Cada trabajo empieza con una visita en la que intenta arreglarlo en el momento. 
 
 ### Qué se sabe
 
-- **Al recibir la llamada:** qué hay que hacer, cuándo llamó el cliente, una duración estimada del trabajo y la disponibilidad del cliente (si no dice nada, puede a cualquier hora del horario). Si ya sabe que necesitará un material que no tiene, también sabe desde qué fecha podrá tenerlo.
+- **Al recibir la llamada:** el tipo de trabajo, qué hay que hacer, cuándo llamó el cliente, su urgencia (urgente, normal o puede esperar), una duración estimada del trabajo y la disponibilidad del cliente (si no dice nada, puede a cualquier hora del horario). Si ya sabe que necesitará un material que no tiene, también sabe desde qué fecha podrá tenerlo.
+
 - **Tras cada visita:** si el trabajo quedó terminado o no. Si no, por qué (falta material o falta tiempo), cuánto tiempo le queda y, si falta material, desde qué fecha podrá tenerlo.
 
 La fecha del material siempre se conoce en el momento (en la llamada o en la visita), así que no hay incertidumbre sobre cuándo llega. Que un trabajo necesite material no es un problema por sí mismo: solo importa si en el momento en que tocaría hacerlo todavía no lo tiene.
@@ -28,6 +29,7 @@ Para cada trabajo pendiente, **la fecha y hora de su próxima visita**.
 - **Material:** un trabajo que necesita material no puede visitarse antes de la fecha en que el material está disponible.
 - **Cliente:** la visita tiene que caer dentro de la disponibilidad que ha indicado el cliente.
 - **Sin solapamientos:** dos visitas no pueden coincidir en el tiempo.
+- **Prioridad:** los trabajos se atienden por orden de llamada, pero los urgentes van antes que los normales, y estos antes que los que pueden esperar.
 
 Al planificar con fecha y hora ya no es necesario limitarse a aceptar solo trabajos que se puedan empezar en una semana. Ese límite existía para poder llevarlo todo de cabeza, así que **los rechazos dejan de formar parte del problema**.
 
@@ -44,7 +46,7 @@ Las horas muertas en las que no había nada que se pudiera hacer (no hay trabajo
 
 La situación actual, siguiendo el orden de llegada, es la línea base con la que se comparará.
 
-El ideal es 0: ninguna hora muerta mientras haya algún trabajo que se pueda hacer
+El ideal es 0: ninguna hora muerta mientras haya algún trabajo que se pueda hacer.
 
 ## Datos
 
@@ -54,9 +56,11 @@ https://docs.google.com/spreadsheets/d/1TZXDSEyXSjovz1fJbzHfa1Fm0bqNKjzyctNGtZC7
 
 ### Trabajos (una fila por trabajo, al recibir la llamada)
 
-| ID | Qué hay que hacer | Llamó (fecha y hora) | Duración estimada (h) | Disponibilidad del cliente | Material disponible desde |
-| -- | ----------------- | -------------------- | --------------------- | -------------------------- | ------------------------- |
+| ID | Tipo | Qué hay que hacer | Llamó (fecha y hora) | Urgencia | Duración estimada (h) | Disponibilidad del cliente | Material disponible desde |
+| -- | ---- | ----------------- | -------------------- | -------- | --------------------- | -------------------------- | ------------------------- |
 
+- **Tipo:** aires acondicionados, fontanería, electricidad, cámaras frigoríficas, pintura, comunidades, máquinas u otros.
+- **Urgencia:** urgente, normal o puede esperar.
 - **Material disponible desde:** solo si en la llamada ya sabe que necesitará un material que no tiene. Vacío si no lo necesita o ya lo tiene.
 
 ### Visitas (una fila cada vez que va a un trabajo)
