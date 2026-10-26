@@ -17,7 +17,12 @@ En la llamada sé:
 - **Cuándo puede estar el cliente en casa**, si me pone alguna condición.
 - **Si necesito un material que no tengo** y desde qué día lo podré tener, cuando ya lo sé por lo que me cuenta.
 
-Atiendo los trabajos por orden de llamada, pero los urgentes pasan por delante de los normales, y estos por delante de los que pueden esperar. No puedo estar en dos trabajos a la vez, y no puedo ir a un trabajo antes de tener el material que necesita.
+Intento atender los trabajos por orden de llamada, pero los urgentes pasan por delante de los normales, y estos por delante de los que pueden esperar. No puedo estar en dos trabajos a la vez, y no puedo ir a un trabajo antes de tener el material que necesita.
+
+Una forma de repartir las citas es mejor que otra según dos cosas, por este orden:
+
+1. **Las horas de mis tardes que se quedan sin trabajar** habiendo algún trabajo pendiente que podría hacer en ellas: cuantas menos, mejor.
+2. Si en eso empatan, **cuánto esperan los clientes** desde que me llaman hasta que voy por primera vez: primero cuenta la espera de los urgentes, después la de los normales y por último la de los que pueden esperar; cuanto menos esperen, mejor.
 
 Tengo que combinar todo esto con los trabajos que ya tengo pendientes, y de memoria no soy capaz de calcular qué día y a qué hora podré ir a cada uno sin descolocar los demás, así que no puedo darle al cliente una cita concreta. Para poder llevarlo de cabeza, me obligo a aceptar solo trabajos que pueda empezar en una semana más o menos, aunque tenga huecos más adelante.
 
