@@ -2,7 +2,7 @@
 
 Cada milestone es un producto mínimamente viable que se construye sobre el anterior. Los dos avanzan en el problema de la [HU001](historias-usuario.md#hu001-cuando-acepto-un-trabajo-no-sé-qué-día-y-a-qué-hora-darle-cita-al-cliente), que es la base de las otras dos historias, y la HU001 pasará de uno a otro según se avance. Los dos son internos; los siguientes, hacia un producto en la nube que Haquin pueda usar, se planificarán durante el desarrollo de estos.
 
-## Milestone 0: primer código del proyecto a partir de la HU001
+## Milestone 0: representación de la HU001 en código
 
 Se analiza la HU001 aplicando diseño dirigido por el dominio y lo que sale de ese análisis se programa en el lenguaje elegido para el proyecto.
 
